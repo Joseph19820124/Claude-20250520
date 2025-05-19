@@ -11,6 +11,6 @@
 * Take a screenshot of my entire screen and save it to my Desktop
 * Find John Smith in my contacts and show me his phone number
 * ~~Create a folder on my Desktop named "Project Files"~~
-* Open Safari and navigate to apple.com
-* Tell me how much free space I have on my main drive
-* List all my upcoming calendar events for this week
+* ~~Open Safari and navigate to apple.com~~
+* ~~Tell me how much free space I have on my main drive~~
+* ~~List all my upcoming calendar events for this week~~
