@@ -1,4 +1,4 @@
-Example Prompts:
+**Example Prompts:**
 * Create a reminder for me to call John tomorrow at 10am
 * Add a new meeting to my calendar for Friday from 2-3pm titled "Team Review"
 * Create a new note titled "Meeting Minutes" with today's date
