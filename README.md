@@ -5,7 +5,7 @@
 * Create a new note titled "Meeting Minutes" with today's date
 * Show me all files in my Downloads folder from the past week
 * What's my current battery percentage?
-* Show me the most recent unread emails in my inbox
+* ~~Show me the most recent unread emails in my inbox~~
 * List all the currently running applications on my Mac
 * Play my "Focus" playlist in Apple Music
 * Take a screenshot of my entire screen and save it to my Desktop
